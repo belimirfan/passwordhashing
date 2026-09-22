@@ -8,6 +8,7 @@ async function main() {
 
   console.log("Original Password:", password);
   console.log("Hashed Password:", hashedPassword);
+  console.log("Changes from github");
 }
 
 main();
